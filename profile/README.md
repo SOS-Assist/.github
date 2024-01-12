@@ -1,5 +1,7 @@
 # SOS Assist
 
+<img src="https://github.com/SOS-Assist/.github/blob/main/profile/assets/app-mockup.jpg">
+
 ## 📖 Description
 SOS Assist is an emergency assistance application designed for quick and efficient response
 in critical situations such as fires, accidents, natural disasters, or other emergency
