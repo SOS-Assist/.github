@@ -13,7 +13,7 @@ Name                                  | Role                | Email             
 :-------------------------------------: |:-----------------:  | :-----------------------------------------------------: |
 Nanda Darma Wirawan | Hustler | nandadarma75@gmail.com
 Made Wahyu Purnama Putra | Hipster | wahyupurnama434@gmail.com
-Dominic Naufal Ramadhan Herwanto | Hacker | dominic.naufal11.com@gmail.com
+Dominic Naufal Ramadhan Herwanto | Hacker | dominic.naufal11@gmail.com
 I Putu Rama Astra Arimbawa | Hacker | ramaastra333.com@gmail.com
 
 ## 🛠️ Tech Stack
