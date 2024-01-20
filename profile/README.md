@@ -8,6 +8,14 @@ in critical situations such as fires, accidents, natural disasters, or other eme
 circumstances. This application directly connects users with relevant authorities/institutions
 and the surrounding community, providing reliable additional protection.
 
+## 🗃️ Repositories
+- [SOS Assist Mobile App](https://github.com/SOS-Assist/mobile-app)
+
+## 🛠️ Tech Stack
+- Flutter
+- Firebase
+- Google Maps
+
 ## 🙋‍ Members
 Name                                  | Role                | Email                                                  |
 :-------------------------------------: |:-----------------:  | :-----------------------------------------------------: |
@@ -15,8 +23,3 @@ Nanda Darma Wirawan | Hustler | nandadarma75@gmail.com
 Made Wahyu Purnama Putra | Hipster | wahyupurnama434@gmail.com
 Dominic Naufal Ramadhan Herwanto | Hacker | dominic.naufal11@gmail.com
 I Putu Rama Astra Arimbawa | Hacker | ramaastra333.com@gmail.com
-
-## 🛠️ Tech Stack
-- Flutter
-- Firebase
-- Google Maps
